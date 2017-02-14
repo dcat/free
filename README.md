@@ -1,0 +1,2 @@
+# free
+display memory statistics
